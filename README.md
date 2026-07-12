@@ -1,2 +1,2 @@
 # cli-store
-key-value stor in rust
+key-value store in rust
